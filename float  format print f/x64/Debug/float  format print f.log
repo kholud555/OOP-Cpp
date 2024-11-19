@@ -1,0 +1,3 @@
+﻿  float  format print f.cpp
+D:\Documents\c++\c++level2\float  format print f\float  format print f.cpp(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  float  format print f.vcxproj -> D:\Documents\c++\c++level2\float  format print f\x64\Debug\float  format print f.exe

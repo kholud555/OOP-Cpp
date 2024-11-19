@@ -1,0 +1,3 @@
+﻿  Dynamical memory allocation.cpp
+D:\Documents\c++\c++level2\Dynamical memory allocation\Dynamical memory allocation.cpp(14,13): warning C4305: '=': truncation from 'double' to 'float'
+  Dynamical memory allocation.vcxproj -> D:\Documents\c++\c++level2\Dynamical memory allocation\x64\Debug\Dynamical memory allocation.exe

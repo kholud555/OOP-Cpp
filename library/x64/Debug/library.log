@@ -1,0 +1,7 @@
+﻿  library.cpp
+D:\Documents\c++\c++level2\library\library.cpp(3,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\c++\c++level2\library\library.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\c++\c++level2\library\library.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\c++\c++level2\library\MathMylLib.h(9,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\c++level2\library\InputLib.h(53): warning C4715: 'InputLib::My_Round': not all control paths return a value
+  library.vcxproj -> D:\Documents\c++\c++level2\library\x64\Debug\library.exe
